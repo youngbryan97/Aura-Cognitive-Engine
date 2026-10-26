@@ -33,7 +33,10 @@ provide definitions you can use when explaining the project aloud.
 [ISC explained](https://github.com/youngbryan97/aura/blob/main/docs/ISC_EXPLAINED.md)
 introduces the experiments. The completed seed-23 run passed 22 of 24
 operational checks under ISC-v6, with positive content and withheld-report
-outputs. A later isolation defect means those paired findings need rechecking.
+outputs. Later shared-history and restored-method repairs mean those paired findings
+need rechecking. The least-domain closure-margin rule stays withdrawn. The
+later night addendum now names an enlarged core, K*, a numeric margin about
+0.0196 and a second closure test; it supplies no fresh passing result.
 The carrier and split-system control questions remain unsettled.
 Read [current status](https://github.com/youngbryan97/aura/blob/main/docs/ISC_STATUS.md)
 for the exact measurements and later developments.
@@ -43,3 +46,15 @@ The separate
 is a small demonstration of earlier components. Its name does not describe a
 completed proof of consciousness, and this landing page supplies no additional
 experimental result.
+
+The [content audit](https://github.com/youngbryan97/aura/blob/main/docs/DOCUMENTATION_CONTENT_AUDIT.md)
+records corrections across the maintained documentation, including the
+separation of G09's passed registered math/planning gain criterion from the
+still-open frontier comparison. The
+[mathematical-claim guide](https://github.com/youngbryan97/aura/blob/main/docs/MATHEMATICAL_CLAIM_LIMITS.md)
+explains assumptions and counterexamples in ordinary language.
+
+The [later K* discovery account](https://github.com/youngbryan97/aura/commit/5bc357b8c66bad13eaa8cad4c2ea9b368037537d)
+reports 284 unchanged swaps on the anchors used to develop that boundary.
+A fresh seed remains the held-out test; the historical 22/24 battery result
+is unchanged.
