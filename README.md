@@ -26,6 +26,10 @@ its actions and remain responsive while it works.
 
 ## The subjecthood research
 
+[Glossary](https://github.com/youngbryan97/aura/blob/main/docs/GLOSSARY.md) and
+[formulas with worked examples](https://github.com/youngbryan97/aura/blob/main/docs/FORMULAS.md)
+provide definitions you can use when explaining the project aloud.
+
 [ISC explained](https://github.com/youngbryan97/aura/blob/main/docs/ISC_EXPLAINED.md)
 introduces the experiments. The completed seed-23 run passed 22 of 24
 operational checks under ISC-v6, with positive content and withheld-report
